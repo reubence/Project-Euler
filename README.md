@@ -1,3 +1,2 @@
 # Project-Euler
-# yolo
-# yoo
+
